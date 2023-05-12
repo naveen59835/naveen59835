@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naveen Kumar S</h1>
 <h3 align="center">Passionate about full-stack development and building web applications that deliver exceptional user experiences</h3>
-
+<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/02/73/46/99/360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen59835&label=Profile%20views&color=0e75b6&style=flat" alt="naveen59835" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveen59835" alt="naveen59835" /></a> </p>
@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/naveen-kumar-600149141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naveen-kumar-600149141/" height="30" width="40" /></a>
 <a href="https://fb.com/naveen.kumaran.35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naveen.kumaran.35" height="30" width="40" /></a>
-<a href="https://instagram.com/www.instagram.com/naveenkumaran1000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/naveenkumaran1000/" height="30" width="40" /></a>
+<a href="https://instagram.com/naveenkumaran1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naveenkumaran1000" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@naveenkumaran101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@naveenkumaran101" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/naveenkumar59835" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naveenkumar59835" height="30" width="40" /></a>
 </p>
