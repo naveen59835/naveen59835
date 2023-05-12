@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Naveen Kumar S</h1>
 <h3 align="center">Passionate about full-stack development and building web applications that deliver exceptional user experiences</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/02/73/46/99/360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg">
+<br>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen59835&label=Profile%20views&color=0e75b6&style=flat" alt="naveen59835" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveen59835" alt="naveen59835" /></a> </p>
