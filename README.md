@@ -1,7 +1,10 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
 <h3 align="center">Passionate about full-stack development and building web applications that deliver exceptional user experiences</h3>
-<img align="center" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/02/73/46/99/360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg">
+<p align="center">
+  <img width="400" src="https://t4.ftcdn.net/jpg/02/73/46/99/360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg" alt="Coding">
+</p>
+
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen59835&label=Profile%20views&color=0e75b6&style=flat" alt="naveen59835" /> </p>
