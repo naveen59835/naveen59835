@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/example_giphy_id/giphy.gif)](https://rishavchanda.io)
+[![MasterHead]([https://media.giphy.com/media/example_giphy_id/giphy.gif](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
 <h3 align="center">Passionate about full-stack development and building web applications that deliver exceptional user experiences</h3>
 <p align="center">
