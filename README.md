@@ -64,8 +64,3 @@ Naveen's GitHub activity graph
 <a href="https://github.com/naveenkumarans/your_repository_here">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumarans&theme=algolia" />
 </a>
-
-## 📊 GitHub Graph
-
-[![Your GitHub Graph](https://activity-graph.herokuapp.com/graph?username=naveenkumarans&theme=github)](https://github.com/naveenkumarans)
-
