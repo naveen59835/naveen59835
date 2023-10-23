@@ -36,8 +36,8 @@
 <a href="https://instagram.com/freakin__jerry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="freakin__jerry" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@naveenkumaran101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@naveenkumaran101" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/naveenkumar59835" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naveenkumar59835" height="30" width="40" /></a>
-  <a href="https://naveenkumars.in" target="blank">
-  <img align="center" src="https://image.flaticon.com/icons/png/512/2991/2991144.png" alt="Personal Website" height="30" width="30" style="margin-left: 10px;" />
+<a href="https://naveenkumars.in" target="blank">
+  <img align="center" src="https://img.icons8.com/neon/96/internet.png" alt="Personal Website" height="30" width="30" style="margin-left: 10px;" />
 </a>
 </p>
 
