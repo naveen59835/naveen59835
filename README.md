@@ -46,9 +46,9 @@
 
 Naveen's GitHub activity graph
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkumarans&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="naveenkumarans" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkumarans&show_icons=true&locale=en&layout=compact" alt="naveenkumarans" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumarans&show_icons=true&locale=en&theme=tokyonight" alt="naveenkumarans" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumarans&show_icons=true&locale=en" alt="naveenkumarans" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumarans&&theme=tokyonight" alt="naveenkumarans" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumarans" alt="naveenkumarans" /></p>
 
