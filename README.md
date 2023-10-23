@@ -52,4 +52,3 @@ Naveen's GitHub activity graph
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumarans&&theme=tokyonight" alt="naveenkumarans" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=naveenkumarans)](https://git.io/streak-stats)
