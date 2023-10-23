@@ -1,6 +1,6 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
-<h3 align="center">Passionate about full-stack development and building web applications that deliver exceptional user experiences</h3>
+<h3 align="center">Passionate about full-stack development and building web applications that deliver exceptional user experiences.</h3>
 <p align="center">
   <img width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="Coding">
 </p>
@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Building SAAS Applicatons**
+- 🔭 I’m currently working on **Building a SAAS Application**
 
 - 🌱 I’m currently learning **DSA**
 
@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/naveenkumarans](https://github.com/naveenkumarans)
 
-- 💬 Ask me about **Angular,SpringBoot,Microservices,Java,Javascript**
+- 💬 Ask me about **Angular,SpringBoot,Microservices,Java,JS,Devops Etc**
 
 - 📫 How to reach me **naveenkumar59835@gmail.com**
 
