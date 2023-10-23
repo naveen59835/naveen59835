@@ -46,9 +46,26 @@
 
 Naveen's GitHub activity graph
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkumarans&show_icons=true&locale=en&layout=compact" alt="naveenkumarans" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumarans&show_icons=true&locale=en" alt="naveenkumarans" /></p>
+## &#x1f4c8; GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumarans" alt="naveenkumarans" /></p>
+<a href="https://github.com/naveenkumarans">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumarans&show_icons=true&line_height=27&count_private=true&theme=algolia" alt="Your GitHub stats" />
+</a>
+
+## 💻 Most Used Languages
+
+<a href="https://github.com/naveenkumarans">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumarans&hide=java,html,css&theme=algolia" />
+</a>
+
+## 🔥 Streak Stats
+
+<a href="https://github.com/naveenkumarans/your_repository_here">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumarans&theme=algolia" />
+</a>
+
+## 📊 GitHub Graph
+
+[![Your GitHub Graph](https://activity-graph.herokuapp.com/graph?username=naveenkumarans&theme=github)](https://github.com/naveenkumarans)
 
