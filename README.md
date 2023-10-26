@@ -49,9 +49,8 @@ Naveen's GitHub activity graph
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/naveenkumarans">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumarans&show_icons=true&line_height=27&count_private=true&theme=algolia" alt="Your GitHub stats" />
-</a>
+[![GitHub stats](https://github.com/naveenkumarans/github-readme-stats/blob/master/dist/badge.svg)](https://github.com/naveenkumarans/github-readme-stats)
+
 
 ## 💻 Most Used Languages
 
