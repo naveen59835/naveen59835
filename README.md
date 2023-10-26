@@ -61,5 +61,6 @@ Naveen's GitHub activity graph
 
 ## 🔥 Streak Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naveenkumarans&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=naveenkumarans)](https://git.io/streak-stats)
+
 
