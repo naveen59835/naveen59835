@@ -47,7 +47,7 @@
 Naveen's GitHub activity graph
 
 
-## &#x1f4c8; GitHub Stats
+## 📈 GitHub Stats
 
 <a href="https://github.com/naveenkumarans">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumarans&show_icons=true&line_height=27&count_private=true&theme=algolia" alt="Your GitHub stats" />
@@ -61,8 +61,5 @@ Naveen's GitHub activity graph
 
 ## 🔥 Streak Stats
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=naveenkumarans&theme=default" />
-</picture>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naveenkumarans&theme=dark)](https://git.io/streak-stats)
 
