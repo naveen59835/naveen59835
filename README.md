@@ -60,3 +60,20 @@ Naveen's GitHub activity graph
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naveenkumarans)](https://git.io/streak-stats)
 
+## 🚀 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=naveenkumarans)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📊 GitHub Activity Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=naveenkumarans)
+
+## 🌟 GitHub Profile Summary Cards
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=naveenkumarans&show_icons=true)](https://github.com/naveenkumarans/github-readme-stats)
+
+## 📌 GitHub Repo Card
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naveenkumarans&repo=github-readme-stats)](https://github.com/naveenkumarans/github-readme-stats)
+
+
