@@ -64,19 +64,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=naveenkumarans)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- GitHub Repo Card -->
-## 📌 GitHub Repo Card
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naveenkumarans&repo=github-readme-stats&theme=dark)](https://github.com/naveenkumarans/github-readme-stats)
-
-<!-- GitHub Profile Summary Cards -->
-## 🌟 GitHub Profile Summary
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=naveenkumarans&show_icons=true&theme=dark)](https://github.com/naveenkumarans/github-readme-stats)
-
-<!-- GitHub Activity Graph -->
-## 📊 GitHub Activity Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=naveenkumarans&theme=github&bg_color=20232a&hide_border=true)
-
 
