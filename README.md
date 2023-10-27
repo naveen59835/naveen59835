@@ -57,11 +57,11 @@ Naveen's GitHub activity graph
 ## 💻 Most Used Languages
 
 <a href="https://github.com/naveenkumarans">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumarans&hide=java,html,css&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumarans&theme=algolia" />
 </a>
 
 ## 🔥 Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=naveenkumarans)](https://git.io/streak-stats)
-
+<a href="https://github.com/naveenkumarans">
+[![GitHub Streak](https://streak-stats.demolab.com?user=naveenkumaranss&theme=algolia)]
+</a>
 
