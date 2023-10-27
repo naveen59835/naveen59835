@@ -62,6 +62,6 @@ Naveen's GitHub activity graph
 
 ## 🔥 Streak Stats
 <a href="https://github.com/naveenkumarans">
-[![GitHub Streak](https://streak-stats.demolab.com?user=naveenkumaranss&theme=algolia)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=naveenkumarans)]
 </a>
 
