@@ -49,7 +49,7 @@
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=naveenkumarans)](https://git.io/streak-stats)
+[![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveenkumarans)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 💻 Most Used Languages
