@@ -13,17 +13,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Building a SAAS Application**
+- 🔭 I’m currently working on **Building a SaaS Application**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **Open-Source Projects**
 
-- 🤝 I’m looking for help with **DSA**
-
 - 👨‍💻 All of my projects are available at [https://github.com/naveenkumarans](https://github.com/naveenkumarans)
 
-- 💬 Ask me about **Angular,SpringBoot,Microservices,Jav,JS,Devops Etc**
+- 💬 Ask me about **Angular, React, SpringBoot, Microservices, Java, JavaScript & Devops Tools**
 
 - 📫 How to reach me **naveenkumar59835@gmail.com**
 
