@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **Open-Source Projects**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/naveenkumarans)
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/naveenkumarans)**
 
 - 💬 Ask me about **Angular, React, SpringBoot, Microservices, Java, JavaScript & Devops Tools**
 
