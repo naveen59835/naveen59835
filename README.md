@@ -19,13 +19,13 @@
 
 - 👯 I’m looking to collaborate on **Open-Source Projects**
 
-- 👨‍💻 All of my projects are available at **[GitHub]**(https://github.com/naveenkumarans)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/naveenkumarans)
 
 - 💬 Ask me about **Angular, React, SpringBoot, Microservices, Java, JavaScript & Devops Tools**
 
 - 📫 How to reach me **naveenkumar59835@gmail.com**
 
-- 📄 Know about my experiences **[View my Resume]**(https://drive.google.com/file/d/1GxoqFr2kj_SNTJUv6V8b457YNcyIFoY-/view?usp=share_link)
+- 📄 Know about my experiences **[View my Resume](https://drive.google.com/file/d/1GxoqFr2kj_SNTJUv6V8b457YNcyIFoY-/view?usp=share_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
