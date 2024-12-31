@@ -1,10 +1,6 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
 <h3 align="center">Passionate about full-stack development and building web applications that deliver exceptional user experiences.</h3>
-<p align="center">
-  <img width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="Coding">
-</p>
-
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumarans&label=Profile%20views&color=0e75b6&style=flat" alt="naveen59835" /> </p>
@@ -25,7 +21,7 @@
 
 - 📫 How to reach me **naveenkumar59835@gmail.com**
 
-- 📄 Know about my experiences **[View my Resume](https://drive.google.com/file/d/1GxoqFr2kj_SNTJUv6V8b457YNcyIFoY-/view?usp=share_link)**
+- 📄 Know about my experiences **[View my Resume](https://drive.google.com/file/d/1wHJoK8ce9k_nfh7lO4s6z2k6XX0berFz/view)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
