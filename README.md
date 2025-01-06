@@ -151,7 +151,7 @@
 
 ## 🔥 Streak Stats
 
-<p>&nbsp;[![GitHub Streak](https://streak-stats.demolab.com?user=naveenkumarans)](https://git.io/streak-stats)</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=naveenkumarans)](https://git.io/streak-stats)
 
 
 ## 🚀 GitHub Trophies
