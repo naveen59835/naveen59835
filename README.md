@@ -149,11 +149,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumarans&layout=compact)](https://github.com/naveenkumarans/github-readme-stats)
 
 
-## 🔥 Streak Stats
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=naveenkumarans" alt="GitHub Streak" /></a>
-
-
 ## 🚀 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=naveenkumarans)](https://github.com/ryo-ma/github-profile-trophy)
