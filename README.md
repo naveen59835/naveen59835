@@ -151,7 +151,7 @@
 
 ## 🔥 Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumarans&show_icons=true&locale=en&theme=tokyonight" alt="naveenkumarans" /></p>
 
 
 ## 🚀 GitHub Trophies
