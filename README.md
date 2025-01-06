@@ -151,7 +151,7 @@
 
 ## 🔥 Streak Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumarans&show_icons=true&locale=en&theme=tokyonight" alt="naveenkumarans" /></p>
+<p>&nbsp;[![GitHub Streak](https://streak-stats.demolab.com?user=naveenkumarans)](https://git.io/streak-stats)</p>
 
 
 ## 🚀 GitHub Trophies
