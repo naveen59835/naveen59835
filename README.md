@@ -1,11 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
 <h3 align="center">Passionate about full-stack development and building web applications that deliver exceptional user experiences.</h3>
-<br>
 
-
-
-<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumarans&label=Profile%20views&color=0e75b6&style=flat" alt="naveen59835" /> </p>
 
 
